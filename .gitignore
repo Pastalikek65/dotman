@@ -1,0 +1,4 @@
+dotman
+*.db
+dist/
+coverage.out
