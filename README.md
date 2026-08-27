@@ -18,6 +18,8 @@ dotman restore termux.properties ~/.termux/termux.properties
 
 Repo at `~/.cache/dotman/repo` (`0700`, git), survives reboot.
 
+![demo](https://raw.githubusercontent.com/Pastalikek65/dotman/main/demo.gif)
+
 ## Install (Termux)
 
 ```bash
